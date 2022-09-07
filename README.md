@@ -38,7 +38,7 @@ By identifying the sentiment behind the tweets can be beneficial in many ways. F
 ## (5) Implementation
 The project has been implemented using Python </br>
 It is available in this repository </br>
-> https://github.com/YaminiAne/Human-Emotion-Recoginition-Using-Twitter-Sentiment-Analysis/blob/main/Human%20Emotion%20Recognition%20Using%20Twitter%20Sentiment%20Analysis.ipynb </br>
+> Human Emotion Recognition Using Twitter Sentiment Analysis.ipynb </br>
 
 Hope this repository was helpful! </br>
 Do star the repository incase you liked it. </br>
