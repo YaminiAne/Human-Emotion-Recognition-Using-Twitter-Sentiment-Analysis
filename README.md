@@ -1,6 +1,6 @@
 # Human-Emotion-Recognition-Using-Twitter-Sentiment-Analysis
 
-> ![I liked the food (1)](https://user-images.githubusercontent.com/83130336/188488944-4e879e77-0c56-4bb8-bf83-844e2fcdca7d.jpg)
+> ![Sentiment Analysis](https://user-images.githubusercontent.com/83130336/188488944-4e879e77-0c56-4bb8-bf83-844e2fcdca7d.jpg)
 
 ## (1) Introduction
 With the outbreak of various social media platforms, people these days tend to
